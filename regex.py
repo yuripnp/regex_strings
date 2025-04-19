@@ -7,7 +7,9 @@
 # \s corresponde a qualquer espaço em branco
 # \S corresponde a qualquer caractere que não seja um espaço em branco
 
-# [abc]
+# [abc] corresponde a qualquer caractere entre os colchetes
+# [a-z] corresponde a qualquer letra minúscula
+# [A-Z] corresponde a qualquer letra maiúscula
 # [a-zA-Z] corresponde a qualquer letra minúscula ou maiúscula
 # [0-9] corresponde a qualquer dígito
 # [a-zA-Z0-9] corresponde a qualquer letra ou dígito

@@ -22,6 +22,7 @@ formato = 'Olá, {}!'.format('Mundo')  # Formata a string com o valor da variáv
 print(textoUm[5])
 print(textoUm[0:5])  # Imprime os primeiros 5 caracteres da string
 print(textoUm[5:])  # Imprime os caracteres da string a partir do índice 5
+print(textoUm[:5])  # Imprime os primeiros 5 caracteres da string
 print(textoUm[-1])  # Imprime o último caractere da string
 print(textoUm[-5:])  # Imprime os últimos 5 caracteres da string
 print(textoUm[::2])  # Imprime os caracteres da string com passo 2
