@@ -28,6 +28,7 @@
 # re.sub() substitui todas as ocorrências da expressão regular na string
 # re.split() divide a string em uma lista de substrings com base na expressão regular
 # re.compile() compila a expressão regular em um objeto de expressão regular
+# re.escape() escapa todos os caracteres especiais na string
 
 
 # \(\d{2}\)\s\d{4,5}-\d{4}  # Expressão regular para telefone
